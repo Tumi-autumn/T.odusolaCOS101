@@ -4,4 +4,4 @@ fn main() {
 
     fees = 35_000;
     println!("fees changed is {}", fees);
-}
+}s
